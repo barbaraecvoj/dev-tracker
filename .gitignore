@@ -21,3 +21,8 @@ venv
 node_modules
 .sass-cache
 .claude
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
